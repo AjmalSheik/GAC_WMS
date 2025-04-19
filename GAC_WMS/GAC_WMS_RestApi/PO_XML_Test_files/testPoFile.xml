@@ -1,0 +1,14 @@
+<PurchaseOrder>
+  <ProcessingDate>2024-04-18T00:00:00Z</ProcessingDate>
+  <CustomerId>5F09B16C-4E5E-408B-A9C6-F2C1F7D6F3FF</CustomerId>
+  <Lines>
+    <Line>
+      <ProductId>222CA275-01A4-4B93-A779-EC7D9A68D0B8</ProductId>
+      <Quantity>10</Quantity>
+    </Line>
+    <Line>
+      <ProductId>222CA275-01A4-4B93-A779-EC7D9A68D0B8</ProductId>
+      <Quantity>5</Quantity>
+    </Line>
+  </Lines>
+</PurchaseOrder>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QgXmM9vCndltc01TTORLUkFiuXc93KCKAg4wARlzrZw=",
+  "Source": "GAC_WMS_RestApi",
+  "BasePath": "_content/GAC_WMS_RestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
